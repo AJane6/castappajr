@@ -1,4 +1,4 @@
-export DATABASE_URL: postgres://mdnrwzggwuidhj:b0b5ffb6446b7c431a4beec6f801646a705e141fc97116e93f9d5a07ed7a40f9@ec2-50-17-178-87.compute-1.amazonaws.com:5432/d64el9hjsoh7t8
+export DATABASE_URL='postgres://mdnrwzggwuidhj:b0b5ffb6446b7c431a4beec6f801646a705e141fc97116e93f9d5a07ed7a40f9@ec2-50-17-178-87.compute-1.amazonaws.com:5432/d64el9hjsoh7t8'
 #export DATABASE_URL=postgres://'localhost:5432'/heroku
 export AUTH0_DOMAIN='dev--3xgavp1.eu.auth0.com'
 export API_AUDIENCE='casting'
